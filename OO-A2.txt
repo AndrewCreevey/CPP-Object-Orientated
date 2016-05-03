@@ -1,0 +1,4 @@
+John Doe 000123 50000.0
+Mark Twain 000456 64000.0
+Mary Poppins 000789 27000.0
+Marie Curie 000345 90000.8

@@ -1,0 +1,12 @@
+11
+# this is a comment in the file
+1.000
+1.002
+0.99999
+1.067896777E01
+1.0000000000
+1
+0.99999999999
+# another comment
+#8.90876    # this data has been commented out
+0.987
